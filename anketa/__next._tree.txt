@@ -1,0 +1,3 @@
+:HL["/moy-plan/_next/static/chunks/40pgz_wrureqd.css","style"]
+:HL["/moy-plan/_next/static/media/Inter-s.p.19a9xxqc3gdvm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"anketa","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"nfseumqaYCMFeUvuBjhV6"}
